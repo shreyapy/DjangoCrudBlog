@@ -1,0 +1,3 @@
+# For Linux users follow the command 
+$ sudo apt-get install python-pip
+$ sudo pip install virtualenv
