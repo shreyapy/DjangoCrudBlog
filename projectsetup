@@ -7,3 +7,9 @@ $ pip3 install django==2.0
 $ django-admin startproject myproject
 $ cd myproject
 $ python manage.py startapp myapp
+
+
+#### to use postgresql we need to install psycopg2 package as well
+
+
+$ pip3 install psycopg2
