@@ -1,0 +1,18 @@
+##### basic tree structure of our project ######
+
+
+
+myproject
+|__ myproject
+|        |__ myapp
+|        |     |_ migrations folder
+|        |     |_ views.py
+|        |     |_ urls.py(need to add)  
+|        |
+|        |_  __init__.py
+|        |_ settings.py
+|        |_ urls.py
+|        |_ wsgi.py
+|
+|_ manage.py
+        
