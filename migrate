@@ -1,0 +1,7 @@
+### to make migrations
+
+$ python manage.py makemigrations
+
+### migrate the model
+
+$ python manage.py migrate
