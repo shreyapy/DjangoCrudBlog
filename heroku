@@ -1,0 +1,5 @@
+$ heroku login
+$ touch Procfile
+$ pip3 install gunicorn whitenoise==4.0.0 psycopg2 django-heroku dj-database-url
+$ pip3 freeze > requirements.txt
+$ heroku create herokuapp
