@@ -1,0 +1,4 @@
+$ python manage.py createsuperuser
+
+###  after this enter any username, you can leave email as blank and add a passoword
+####  with these credentials you can login to your admin account by appenind '/admin' to the application URL.
